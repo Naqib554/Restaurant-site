@@ -24,9 +24,9 @@ const Contact = () => {
           <h2 className="text-4xl font-bold mb-4">Let’s Talk!</h2>
           <p className="mb-8 text-lg">We’d love to hear from you. Fill out the form and we’ll get back to you shortly.</p>
           <ul className="space-y-4 text-sm">
-            <li>📍 Peshawar, Pakistan</li>
-            <li>📧 info@example.com</li>
-            <li>📞 +92 300 0000000</li>
+            <li>📍 Islamabad, Pakistan</li>
+            <li>📧 naqibhangu1@gmail.com</li>
+            <li>📞 +92 3215525170</li>
           </ul>
         </div>
 
