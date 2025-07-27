@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ali Khan",
+    "role": "Head Chef",
+    "img": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Sara Ahmed",
+    "role": "Restaurant Manager",
+    "img": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Hamza Yousaf",
+    "role": "Marketing Lead",
+    "img": "https://via.placeholder.com/150"
+  }
+]
